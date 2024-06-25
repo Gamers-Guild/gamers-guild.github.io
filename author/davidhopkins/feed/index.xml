@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>David Hopkins &#8211; Gamers Guild Inc</title>
+	<atom:link href="/author/davidhopkins/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Home of Tabletop RPGs in Perth</description>
+	<lastBuildDate>Tue, 25 Jun 2024 12:04:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>The Gamers Guild can now accept electronic payments</title>
+		<link>/2024/06/the-gamers-guild-can-now-accept-electronic-payments/</link>
+		
+		<dc:creator><![CDATA[David Hopkins]]></dc:creator>
+		<pubDate>Tue, 25 Jun 2024 12:04:13 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://gamersguild.org.au/?p=224</guid>
+
+					<description><![CDATA[We have a Square payment terminal, so you can now pay memberships, attendance fees, and pay for drinks electronically! All card types and mobile device payments are accepted. The prices are a little higher than cash, since we pass along Square&#8217;s 1.6% payment processing fee, but the fee is the same no matter what payment type you use.]]></description>
+										<content:encoded><![CDATA[
+<p>We have a Square payment terminal, so you can now pay memberships, attendance fees, and pay for drinks electronically! All card types and mobile device payments are accepted. The prices are a little higher than cash, since we pass along Square&#8217;s 1.6% payment processing fee, but the fee is the same no matter what payment type you use.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Discord server</title>
+		<link>/2017/07/discord-server/</link>
+		
+		<dc:creator><![CDATA[David Hopkins]]></dc:creator>
+		<pubDate>Mon, 17 Jul 2017 07:57:12 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://gamersguild.org.au/?p=168</guid>
+
+					<description><![CDATA[The Gamers Guild has a Discord server! Guild members are welcome to start dedicated channels for their campaigns, look for games to join, or just chat about games. You can join by clicking this link. &#160;]]></description>
+										<content:encoded><![CDATA[<p>The Gamers Guild has a Discord server!</p>
+<p>Guild members are welcome to start dedicated channels for their campaigns, look for games to join, or just chat about games.</p>
+<p>You can join by <a href="http://discord.gg/kT5cZ3x">clicking this link</a>.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
